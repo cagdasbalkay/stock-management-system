@@ -1,0 +1,94 @@
+C:\Users\cagda\source\repos\EntityUrunProje\bin\Debug\EntityUrunProje.exe.config
+C:\Users\cagda\source\repos\EntityUrunProje\bin\Debug\EntityUrunProje.exe
+C:\Users\cagda\source\repos\EntityUrunProje\bin\Debug\EntityUrunProje.pdb
+C:\Users\cagda\source\repos\EntityUrunProje\bin\Debug\EntityFramework.dll
+C:\Users\cagda\source\repos\EntityUrunProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cagda\source\repos\EntityUrunProje\bin\Debug\EntityFramework.xml
+C:\Users\cagda\source\repos\EntityUrunProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cagda\source\repos\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.AssemblyReference.cache
+C:\Users\cagda\source\repos\EntityUrunProje\obj\Debug\EntityUrunProje.Form1.resources
+C:\Users\cagda\source\repos\EntityUrunProje\obj\Debug\EntityUrunProje.Properties.Resources.resources
+C:\Users\cagda\source\repos\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.GenerateResource.cache
+C:\Users\cagda\source\repos\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.CoreCompileInputs.cache
+C:\Users\cagda\source\repos\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.CopyComplete
+C:\Users\cagda\source\repos\EntityUrunProje\obj\Debug\EntityUrunProje.exe
+C:\Users\cagda\source\repos\EntityUrunProje\obj\Debug\EntityUrunProje.pdb
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityUrunProje.exe.config
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityUrunProje.exe
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityUrunProje.pdb
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityFramework.dll
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityFramework.xml
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.AssemblyReference.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.Form1.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.FrmAnaForm.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.Properties.Resources.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.GenerateResource.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.CoreCompileInputs.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.CopyComplete
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.exe
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.pdb
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.FrmUrun.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.FrmIstatistik.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.FrmGiris.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityUrunProje.exe.config
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityUrunProje.exe
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityUrunProje.pdb
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityFramework.dll
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityFramework.xml
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.AssemblyReference.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.Form1.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.FrmAnaForm.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.FrmGiris.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.FrmIstatistik.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.FrmUrun.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.Properties.Resources.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.GenerateResource.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.CoreCompileInputs.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.CopyComplete
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.exe
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders47-Entity_Framework\EntityUrunProje\obj\Debug\EntityUrunProje.pdb
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\bin\Debug\EntityUrunProje.exe.config
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\bin\Debug\EntityUrunProje.exe
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\bin\Debug\EntityUrunProje.pdb
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\bin\Debug\EntityFramework.dll
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\bin\Debug\EntityFramework.xml
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.AssemblyReference.cache
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.FrmAnaForm.resources
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.FrmGiris.resources
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.FrmIstatistik.resources
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.FrmUrun.resources
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.Properties.Resources.resources
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.GenerateResource.cache
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.CoreCompileInputs.cache
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.CopyComplete
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.exe
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.pdb
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje\obj\Debug\EntityUrunProje.FrmKategori.resources
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\bin\Debug\EntityUrunProje.exe.config
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\bin\Debug\EntityUrunProje.exe
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\bin\Debug\EntityUrunProje.pdb
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\bin\Debug\EntityFramework.dll
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\bin\Debug\EntityFramework.xml
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.csproj.AssemblyReference.cache
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.FrmAnaForm.resources
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.FrmGiris.resources
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.FrmIstatistik.resources
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.Properties.Resources.resources
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.csproj.GenerateResource.cache
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.csproj.CoreCompileInputs.cache
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.csproj.CopyComplete
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.exe
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.pdb
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.FrmKategoriIslemleri.resources
+C:\Users\cagda\Masaüstü\Deneme2\EntityUrunProje - Kopya\obj\Debug\EntityUrunProje.FrmUrunIslemleri.resources
